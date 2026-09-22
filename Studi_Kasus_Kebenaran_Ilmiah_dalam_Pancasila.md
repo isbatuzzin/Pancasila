@@ -383,24 +383,7 @@ Buat kesimpulan dalam 3–5 kalimat yang menghubungkan:
 
 ---
 
-# RANGKUMAN PESAN PEMBELAJARAN
-
-Kelima kasus menunjukkan bahwa memahami kebenaran ilmiah tidak cukup hanya dengan bertanya:
-
-> **“Apakah hasilnya benar?”**
-
-Mahasiswa juga perlu bertanya:
-
-1. **Apa buktinya?**
-2. **Bagaimana bukti tersebut diperoleh?**
-3. **Apa batas dari kesimpulan tersebut?**
-4. **Siapa yang terdampak?**
-5. **Nilai apa yang harus menjadi pertimbangan?**
-6. **Apakah penerapannya menghormati manusia?**
-7. **Apakah manfaat dan risikonya didistribusikan secara adil?**
-8. **Siapa yang bertanggung jawab atas keputusan tersebut?**
-
-Dengan demikian, pemaknaan kebenaran ilmiah dalam Pancasila dapat diringkas melalui alur:
+Pemaknaan kebenaran ilmiah dalam Pancasila dapat diringkas melalui alur:
 
 > **Kebenaran → Bukti → Batas → Nilai → Dampak → Tanggung Jawab**
 
